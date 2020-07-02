@@ -1,8 +1,6 @@
 # Xiaohuoban_training
 
-此repo为Git练习。
-
-[TOC]
+这个repository是练习用的草稿本。
 
 
 
